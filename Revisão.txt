@@ -1,0 +1,4 @@
+Ana Cristina, você está desenvolvendo bem o seu código, porém ele está muito bagunçado e dificil de se ler.
+Procure gastar um tempo deixando seu código melhor organizado.
+Att.
+Professor Rodrigo Manika
